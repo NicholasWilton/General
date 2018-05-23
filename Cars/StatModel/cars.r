@@ -1,7 +1,7 @@
 library(sqldf)
 #library(sem)
 
-setwd('C:\\Users\\User\\Source\\Repos\\AutotraderScraper\\AutotraderScraper\\bin\\Debug')
+setwd('C:\\Users\\User\\Source\\Repos\\General\\Cars\\AutotraderScraper\\AutotraderScraper\\bin\\Debug')
 file = 'cars.csv'
 
 #load main dataset

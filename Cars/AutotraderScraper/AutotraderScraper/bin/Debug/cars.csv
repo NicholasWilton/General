@@ -1,0 +1,163 @@
+id,description,price,mileage,year,age,transmission,size,power,fuel
+1,Nissan Juke 1.6 DIG-T 4X4 Nismo RS 5-Door Hatchback 5dr,20495,151,2018,0,Automatic,1.6,211,Petrol
+2,Nissan Juke 1.6 DIG-T 4X4 Nismo RS 5-Door Hatchback 5dr,20450,7000,2017,1,Automatic,1.6,211,Petrol
+3,Nissan Juke 1.6 DiG-T Nismo RS 5dr,19995,11,2018,0,Manual,1.6,215,Petrol
+4,Nissan Juke 1.6 DiG-T Nismo RS 5dr,19995,6,2018,0,Manual,1.6,215,Petrol
+5,Nissan Juke 1.6 DIG-T Nismo RS 5-Door Hatchback 5dr,18995,25,2018,0,Manual,1.6,215,Petrol
+6,Nissan Juke 1.6 DIG-T 4X4 Nismo RS 5-Door Hatchback 5dr,18989,2063,2017,1,Automatic,1.6,211,Petrol
+7,Nissan Juke 1.6 DiG-T Nismo RS (Recaro/Tech Pack) 5dr,18900,5000,2018,0,Manual,1.6,215,Petrol
+8,Nissan Juke 1.6 DIG-T Nismo RS 5-Door Hatchback 5dr,18795,25,2018,0,Manual,1.6,215,Petrol
+9,Nissan Juke 1.6 DIG-T 4X4 Nismo RS 5-Door Hatchback 5dr,18495,5061,2017,1,Automatic,1.6,211,Petrol
+10,Nissan Juke 1.6 DIG-T Nismo RS 5-Door Hatchback 5dr,18395,25,2018,0,Manual,1.6,215,Petrol
+12,Nissan Juke 1.6 DIG-T Nismo RS 5dr,17999,5678,2017,1,Manual,1.6,215,Petrol
+13,Nissan Juke 1.6 DIG-T Nismo RS Recaro Tech Pack 5-Door Hatch 5dr,17995,400,2017,1,Manual,1.6,215,Petrol
+14,Nissan Juke 1.6 DIG-T Nismo RS Recaro Tech 5-Door Hatchback 5dr,17495,3500,2017,1,Manual,1.6,215,Petrol
+15,Nissan Juke 1.6 DIG-T Nismo RS M-Xtronic 4X4 5dr,17400,3200,2017,1,Automatic,1.6,211,Petrol
+16,Nissan Juke 1.6 DIG-T Nismo RS 5-Door Hatchback 5dr,17000,2400,2017,1,Manual,1.6,215,Petrol
+17,Nissan Juke 1.6 DiG-T Nismo RS [Recaro/Tec Pk] 5dr 4WD Xtronic,16999,6211,2016,2,Automatic,1.6,211,Petrol
+18,Nissan Juke 1.6 DiG-T Nismo RS 5dr,16995,8428,2017,1,Manual,1.6,215,Petrol
+19,Nissan Juke 1.6 DIG-T Nismo RS 5-Door Hatchback 5dr,16995,5090,2017,1,Manual,1.6,215,Petrol
+20,Nissan Juke 1.6 DIG-T 4X4 Nismo RS 5-Door Hatchback 5dr,16995,10585,2015,3,Automatic,1.6,211,Petrol
+21,Nissan Juke 1.6 DIG-T Nismo RS 5-Door Hatchback 5dr,16995,5954,2017,1,Manual,1.6,215,Petrol
+23,Nissan Juke 1.6 DIG-T 4X4 Nismo RS 5-Door Hatchback 5dr,16995,3809,2017,1,Automatic,1.6,211,Petrol
+24,Nissan Juke 1.6 DiG-T Nismo RS 5dr 4WD Xtronic,16990,3007,2016,2,Automatic,1.6,211,Petrol
+25,Nissan Juke 1.6 DiG-T Nismo RS 5dr,16980,5000,2017,1,Manual,1.6,215,Petrol
+26,Nissan Juke 1.6 DIG-T 4X4 Nismo RS 5-Door Hatchback 5dr,16885,10064,2017,1,Automatic,1.6,211,Petrol
+27,Nissan Juke 1.6 DIG-T 4X4 Nismo RS 5-Door Hatchback 5dr,16465,5710,2017,1,Automatic,1.6,211,Petrol
+28,Nissan Juke 1.6 DIG-T 4X4 Nismo RS 5-Door Hatchback 5dr,16234,8628,2017,1,Automatic,1.6,211,Petrol
+29,Nissan Juke 1.6 DIG-T Nismo RS SUV 5dr Petrol Manual (168 g/km,16000,371,2017,1,Manual,1.6,215,Petrol
+30,Nissan Juke 1.6 DiG-T Nismo RS 5dr Xtronic 4WD,15999,4470,2016,2,Automatic,1.6,211,Petrol
+31,Nissan Juke Nismo Rs Dig-t 1.6 5dr,15990,3990,2017,1,Manual,1.6,215,Petrol
+32,Nissan Juke 1.6 DiG-T Nismo RS 5dr 4WD Xtronic,15990,6646,2016,2,Automatic,1.6,211,Petrol
+33,Nissan Juke 1.6 DIG-T 4X4 Nismo RS 5-Door Hatchback 5dr,15290,15157,2016,2,Automatic,1.6,211,Petrol
+34,Nissan Juke 1.6 DiG-T Nismo RS (Recaro Pack) 5dr,15990,3360,2017,1,Manual,1.6,215,Petrol
+35,Nissan Juke 1.6 DiG-T Nismo RS 5dr,15795,7081,2017,1,Manual,1.6,215,Petrol
+36,Nissan Juke 1.6 DIG-T Nismo RS (Tech Pack) 5dr,15600,11759,2017,1,Manual,1.6,215,Petrol
+37,Nissan Juke 1.6 Dig-t Nismo RS Xtronic 4WD 5dr,15490,13548,2015,3,Automatic,1.6,211,Petrol
+38,Nissan Juke 1.6 DIG-T Nismo RS M-Xtronic 4WD 5dr,15490,7000,2016,2,Automatic,1.6,211,Petrol
+39,Nissan Juke 1.6 DiG-T Nismo RS 5dr,15480,10826,2016,2,Manual,1.6,215,Petrol
+40,Nissan Juke 1.6 DiG-T Nismo RS 5dr,15480,6101,2017,1,Manual,1.6,215,Petrol
+41,Nissan Juke 1.6 DiG-T Nismo RS 5dr,15430,2684,2017,1,Manual,1.6,215,Petrol
+42,Nissan Juke 1.6 NISMO RS DIG-T 5dr,15295,17564,2015,3,Manual,1.6,215,Petrol
+43,Nissan Juke 1.6 DIG-T 4X4 Nismo RS 5-Door Hatchback 5dr,15290,15157,2016,2,Automatic,1.6,211,Petrol
+44,Nissan Juke 1.6 DIG-T 4X4 Nismo RS 5-Door Hatchback 5dr,15290,15157,2016,2,Automatic,1.6,211,Petrol
+45,Nissan Juke 1.6 DIG-T Nismo RS 5-Door Hatchback 5dr,15250,11876,2017,1,Manual,1.6,215,Petrol
+46,Nissan Juke 1.6 DIG-T NISMO RS M-Xtronic 4WD 5d 211 BHP SAT NAV &hellip;,15250,14000,2016,2,Automatic,1.6,211,Petrol
+47,Nissan Juke 1.6 DiG-T Nismo RS 5dr,15230,5888,2017,1,Manual,1.6,215,Petrol
+48,Nissan Juke 1.6 DIG-T Nismo RS M-Xtronic 4x4 5dr,15195,15329,2016,2,Automatic,1.6,211,Petrol
+49,Nissan Juke 1.6 DiG-T Nismo RS 5dr 4WD Xtronic,15000,20432,2015,3,Automatic,1.6,211,Petrol
+50,Nissan Juke 1.6 DiG-T Nismo RS [Recaro Pack] 5dr,15000,8914,2016,2,Manual,1.6,215,Petrol
+51,Nissan Juke 1.6 DIG-T Nismo RS 5dr,15000,4529,2016,2,Manual,1.6,215,Petrol
+52,Nissan Juke 1.6 DIG-T Nismo RS SUV 5dr Petrol M-Xtronic 4X4 (172 &hellip;,15000,13036,2016,2,Automatic,1.6,211,Petrol
+53,Nissan Juke 1.6 DiG-T Nismo RS 5dr 4WD Xtronic,14999,9814,2016,2,Automatic,1.6,211,Petrol
+54,Nissan Juke 1.6 DiG-T Nismo RS 5dr 4WD Xtronic,14999,8396,2016,2,Automatic,1.6,211,Petrol
+56,Nissan Juke 1.6 DIG-T Nismo RS 5dr,14999,5339,2016,2,Manual,1.6,215,Petrol
+57,Nissan Juke 1.6 DiG-T Nismo RS 5dr,14998,8340,2016,2,Manual,1.6,215,Petrol
+58,Nissan Juke Nismo Rs Dig-t 1.6 5dr,14995,8752,2015,3,Manual,1.6,215,Petrol
+59,Nissan Juke Hatchback 5-Door 1.6 4X4 Nismo RS 5dr,14995,13140,2015,3,Automatic,1.6,211,Petrol
+60,Nissan Juke 1.6 DIG-T Nismo RS 5-Door Hatchback 5dr,14990,4974,2017,1,Manual,1.6,215,Petrol
+61,Nissan Juke 1.6 DiG-T Nismo RS 5dr 4WD Xtronic - BEAUTIFIUL &hellip;,14990,17000,2016,2,Automatic,1.6,211,Petrol
+62,Nissan Juke 1.6 DiG-T Nismo RS 5dr 4WD Xtronic,14990,19645,2015,3,Automatic,1.6,211,Petrol
+63,Nissan Juke 1.6 DIG-T Nismo RS 5-Door Hatchback 5dr,14895,10037,2017,1,Manual,1.6,215,Petrol
+64,Nissan Juke 1.6 DIG-T Nismo RS M-Xtronic 4WD 5dr,14750,6764,2016,2,Automatic,1.6,211,Petrol
+65,Nissan Juke 1.6 DiG-T Nismo RS 5dr,14699,4960,2017,1,Manual,1.6,215,Petrol
+67,Nissan Juke 1.6 DiG-T Nismo RS 5dr,14699,5361,2017,1,Manual,1.6,215,Petrol
+68,Nissan Juke 1.6 DiG-T Nismo RS 5dr,14699,3960,2017,1,Manual,1.6,215,Petrol
+69,Nissan Juke 1.6 DiG-T Nismo RS 5 door,14689,8590,2017,1,Manual,1.6,215,Petrol
+70,Nissan Juke 1.6 DiG-T Nismo RS 5dr CVT 4WD Tech Pa,14500,26625,2015,3,Automatic,1.6,211,Petrol
+71,Nissan Juke 1.6 DIG-T Nismo RS M-Xtronic 4WD 5dr,14494,29000,2015,3,Automatic,1.6,211,Petrol
+72,Nissan Juke 1.6 Nismo RS Xtronic CVT 4WD 5dr,14475,29959,2015,3,Automatic,1.6,211,Petrol
+73,Nissan Juke 1.6 DiG-T Nismo RS [Tech Pack] 5dr 4WD Xtronic,14470,27457,2015,3,Automatic,1.6,211,Petrol
+74,Nissan Juke 1.6 DiG-T Nismo RS 5dr 2WD,14400,12532,2016,2,Manual,1.6,215,Petrol
+75,Nissan Juke 1.6 DIG-T Nismo RS 5-Door Hatchback 5dr,14290,4039,2016,2,Manual,1.6,215,Petrol
+76,Nissan Juke 1.6 DIG-T Nismo RS 5dr,14250,13645,2016,2,Manual,1.6,215,Petrol
+78,Nissan Juke 1.6 DIG-T Nismo RS SUV 5dr Petrol M-Xtronic 4WD (172 &hellip;,14250,32000,2015,3,Automatic,1.6,211,Petrol
+79,Nissan Juke 1.6 DiG-T Nismo RS 5dr 4WD Xtronic,14177,15854,2016,2,Automatic,1.6,211,Petrol
+80,Nissan Juke 1.6 DiG-T Nismo RS 5dr,14000,10870,2016,2,Manual,1.6,215,Petrol
+81,Nissan Juke 1.6 DiG-T Nismo RS 5dr,13999,7188,2016,2,Manual,1.6,215,Petrol
+82,Nissan Juke 1.6 DiG-T Nismo RS 5dr,13999,4985,2016,2,Manual,1.6,215,Petrol
+83,Nissan Juke 1.6 NISMO RS DIG-T 5d 215 BHP REAR PARKING CAMERA,13999,19409,2015,3,Manual,1.6,215,Petrol
+84,Nissan Juke 1.6 NISMO RS DIG-T 5dr,13998,12466,2017,1,Manual,1.6,215,Petrol
+85,Nissan Juke 1.6 DIG-T Nismo RS 5-Door Hatchback 5dr,13995,10222,2015,3,Manual,1.6,215,Petrol
+86,Nissan Juke 1.6 DIG-T Nismo RS 5dr,13995,10490,2016,2,Manual,1.6,215,Petrol
+87,Nissan Juke 1.6 DIG-T Nismo RS 5-Door Hatchback 5dr,13995,13328,2016,2,Manual,1.6,215,Petrol
+89,Nissan Juke 1.6 DIG-T Nismo RS 5-Door Hatchback 5dr,13990,10000,2015,3,Manual,1.6,215,Petrol
+90,Nissan Juke 1.6 DiG-T Nismo RS 5dr 4WD Xtronic,13990,23458,2014,4,Automatic,1.6,211,Petrol
+91,Nissan Juke 1.6 DIG-T Nismo RS 5dr,13990,11565,2016,2,Manual,1.6,215,Petrol
+92,Nissan Juke 1.6 DIG-T Nismo RS 5dr,13975,9877,2015,3,Manual,1.6,215,Petrol
+93,Nissan Juke 1.6 DIG-T Nismo RS (Recaro &amp; Tech Pack) 5dr,13975,12499,2015,3,Manual,1.6,215,Petrol
+94,Nissan Juke 1.6 DiG-T Nismo RS 5dr 4WD Xtronic,13857,12467,2016,2,Automatic,1.6,211,Petrol
+95,Nissan Juke 1.6 DiG-T Nismo RS 5dr,13830,6596,2016,2,Manual,1.6,215,Petrol
+96,Nissan Juke Hatchback 1.6 DiG-T Nismo RS 5dr,13771,11509,2016,2,Manual,1.6,215,Petrol
+97,Nissan Juke 1.6 DIG-T Nismo RS 5dr,13750,9813,2015,3,Manual,1.6,215,Petrol
+98,Nissan Juke 1.6 DIG-T Nismo RS 5-Door Hatchback 5dr,13699,32437,2015,3,Manual,1.6,215,Petrol
+100,Nissan Juke Hatchback 5-Door 1.6 DIG-T Nismo RS 5dr,13695,9090,2015,3,Manual,1.6,215,Petrol
+101,Nissan Juke 1.6 NISMO RS DIG-T 5d 215 BHP Sat Nav,13650,14835,2016,2,Manual,1.6,215,Petrol
+102,Nissan Juke 1.6 DiG-T Nismo RS 5dr 2WD Recaro Seat,13600,12239,2015,3,Manual,1.6,215,Petrol
+103,Nissan Juke 1.6 DiG-T Nismo RS 5dr,13500,16197,2015,3,Manual,1.6,215,Petrol
+104,Nissan Juke 1.6 DIG-T Nismo RS 5dr,13500,14500,2016,2,Manual,1.6,215,Petrol
+105,Nissan Juke 1.6 Dig-t Nismo Rs 5dr,13500,21660,2015,3,Manual,1.6,215,Petrol
+106,Nissan Juke 1.6 Nismo RS Xtronic CVT 4WD 5dr,13500,26947,2015,3,Automatic,1.6,211,Petrol
+107,Nissan Juke 1.6 DiG-T Nismo RS 5 Door,13500,9803,2015,3,Manual,1.6,215,Petrol
+108,Nissan Juke 1.6 DiG-T Nismo RS 4x2 5dr,13499,12291,2016,2,Manual,1.6,215,Petrol
+109,Nissan Juke 1.6 DiG-T Nismo RS 5dr,13499,18260,2016,2,Manual,1.6,215,Petrol
+111,Nissan Juke 1.6 DIG-T Nismo RS 5dr,13495,13000,2016,2,Manual,1.6,215,Petrol
+112,Nissan Juke 1.6 DIG-T Nismo RS 5dr,13495,21000,2016,2,Manual,1.6,215,Petrol
+113,Nissan Juke nismo rs dig-t - folkestone 1.6 5dr,13495,11402,2016,2,Manual,1.6,215,Petrol
+114,Nissan Juke nismo rs dig-t folkestone 01303228200 1.6 5dr,13495,15514,2016,2,Manual,1.6,215,Petrol
+115,Nissan Juke 1.6 NISMO RS DIG-T 5DR,13495,17000,2015,3,Manual,1.6,215,Petrol
+116,Nissan Juke 1.6 DIG-T Nismo RS 5dr,13495,6083,2016,2,Manual,1.6,215,Petrol
+117,Nissan Juke NISMO RS DIG-T 1.6 5dr,13455,19000,2015,3,Manual,1.6,215,Petrol
+118,Nissan Juke 1.6 DIG-T Nismo RS 5dr,13448,38000,2015,3,Manual,1.6,215,Petrol
+119,Nissan Juke 1.6 DiG-T Nismo RS [Recaro Pack] 5dr Air Conditioning,13445,22007,2015,3,Manual,1.6,215,Petrol
+120,Nissan Juke 1.6 NISMO RS DIG-T 5d 218 BHP Sat Nav,13350,21000,2015,3,Manual,1.6,215,Petrol
+122,Nissan Juke 1.6 DiG-T Nismo RS 5dr,13340,13081,2016,2,Manual,1.6,215,Petrol
+123,Nissan Juke 1.6 DiG-T Nismo RS 5dr,13310,10831,2016,2,Manual,1.6,215,Petrol
+124,Nissan Juke 1.6 DIG-T Nismo RS 5dr,13300,11540,2015,3,Manual,1.6,215,Petrol
+125,Nissan Juke 1.6 DIG-T Nismo RS 5dr,13295,23500,2015,3,Manual,1.6,215,Petrol
+126,Nissan Juke 1.6 DIG-T Nismo RS 5-Door Hatchback 5dr,13295,3199,2015,3,Manual,1.6,215,Petrol
+127,Nissan Juke 1.6 DIG-T Nismo RS 5-Door Hatchback 5dr,13275,25000,2016,2,Manual,1.6,215,Petrol
+128,Nissan Juke 1.6 DIG-T Nismo RS M-Xtronic 4WD 5dr,13250,30000,2015,3,Automatic,1.6,211,Petrol
+129,Nissan Juke 1.6 DIG-T Nismo RS 5dr,13240,14000,2016,2,Manual,1.6,215,Petrol
+130,Nissan Juke 1.6 DIG-T Nismo RS 5dr,13180,18260,2015,3,Manual,1.6,215,Petrol
+131,Nissan Juke 1.6 DIG-T Nismo RS 5-Door Hatchback 5dr,13170,9414,2015,3,Manual,1.6,215,Petrol
+133,Nissan Juke 1.6 DiG-T Nismo RS 5dr 2WD,13100,18727,2015,3,Manual,1.6,215,Petrol
+134,Nissan Juke 1.6 DIG-T Nismo RS M-Xtronic 4WD 5dr,13029,28045,2015,3,Automatic,1.6,211,Petrol
+135,Nissan Juke 1.6 DIG-T Nismo RS 5dr,13000,9000,2016,2,Manual,1.6,215,Petrol
+136,Nissan Juke 1.6 Nismo RS Xtronic CVT 4WD 5dr,12999,30910,2015,3,Automatic,1.6,211,Petrol
+137,Nissan Juke 1.6 NISMO RS DIG-T 5dr,12999,9900,2016,2,Manual,1.6,215,Petrol
+138,Nissan Juke 1.6 NISMO RS DIG-T 5dr Full Service History,12995,13640,2015,3,Manual,1.6,215,Petrol
+139,Nissan Juke 1.6 DiG-T Nismo RS - Nav and Rear Camera 5dr,12994,10724,2015,3,Manual,1.6,215,Petrol
+140,Nissan Juke 1.6 DIG-T Nismo RS 5dr,12991,35000,2014,4,Manual,1.6,215,Petrol
+141,Nissan Juke 1.6 DIG-T Nismo RS 5dr,12900,15592,2015,3,Manual,1.6,215,Petrol
+142,Nissan Juke 1.6 DiG-T Nismo RS 5dr,12900,18510,2015,3,Manual,1.6,215,Petrol
+144,Nissan Juke 1.6 DiG-T Nismo RS 5dr,12841,16702,2015,3,Manual,1.6,215,Petrol
+145,Nissan Juke 1.6 DIG-T Nismo RS 5dr,12750,11900,2015,3,Manual,1.6,215,Petrol
+146,Nissan Juke 1.6 DIG-T Nismo RS M-Xtronic 4WD 5dr,12750,38869,2016,2,Automatic,1.6,211,Petrol
+147,Nissan Juke 1.6 DIG-T Nismo RS 5dr,12700,30029,2015,3,Manual,1.6,215,Petrol
+148,Nissan Juke 1.6 DiG-T Nismo RS 5dr 2WD,12699,38331,2015,3,Manual,1.6,215,Petrol
+149,Nissan Juke 1.6 DIG-T Nismo RS 5dr,12695,26000,2015,3,Manual,1.6,215,Petrol
+150,Nissan Juke 1.6 DIG-T Nismo RS 5dr,12690,39000,2015,3,Manual,1.6,215,Petrol
+151,Nissan Juke 1.6 DiG-T Nismo RS 5dr,12660,12675,2015,3,Manual,1.6,215,Petrol
+152,Nissan Juke 1.6 DiG-T Nismo RS 5dr,12600,26018,2015,3,Manual,1.6,215,Petrol
+153,Nissan Juke 1.6 DiG-T Nismo RS 5dr 2WD Recaro,12500,33600,2015,3,Manual,1.6,215,Petrol
+155,Nissan Juke 1.6 DIG-T Nismo RS 5dr,12500,18700,2015,3,Manual,1.6,215,Petrol
+156,Nissan Juke 1.6 DIG-T Nismo RS 5dr,12499,31000,2016,2,Manual,1.6,215,Petrol
+157,Nissan Juke 1.6 4X4 Nismo RS 5-Door Hatchback +SAT NAV+ 5dr,12497,19685,2014,4,Automatic,1.6,211,Petrol
+158,Nissan Juke 1.6 DiG-T Nismo RS 5dr,12495,13000,2015,3,Manual,1.6,215,Petrol
+159,Nissan Juke NISMO RS DIG-T 1.6 5dr,12495,28000,2016,2,Manual,1.6,215,Petrol
+160,Nissan Juke Hatchback 5-Door 1.6 DIG-T Nismo RS 5dr,12495,18341,2014,4,Manual,1.6,215,Petrol
+161,Nissan Juke 1.6 DiG-T Nismo RS 5dr,12495,14178,2015,3,Manual,1.6,215,Petrol
+162,Nissan Juke 1.6 DIG-T Nismo RS 5dr,12490,15844,2016,2,Manual,1.6,215,Petrol
+163,Nissan Juke 1.6 DiG-T Nismo RS 5dr #FULL SERVICE HISTORY#,12490,28000,2015,3,Manual,1.6,215,Petrol
+164,Nissan Juke 1.6 DIG-T Nismo RS 5dr,12469,32057,2015,3,Manual,1.6,215,Petrol
+166,Nissan Juke 1.6 DIG-T Nismo RS 5-Door Hatchback 5dr,12355,35612,2015,3,Manual,1.6,215,Petrol
+167,Nissan Juke 1.6 DIG-T Nismo RS 5dr,12250,34250,2014,4,Manual,1.6,215,Petrol
+168,Nissan Juke 1.6 NISMO RS DIG-T 5d 215 BHP PEARL BLACK,12250,25956,2015,3,Manual,1.6,215,Petrol
+169,Nissan Juke 1.6 NISMO RS DIG-T 5d 215 BHP,12194,26000,2015,3,Manual,1.6,215,Petrol
+170,Nissan Juke 1.6 DiG-T Nismo RS 4x2 5dr,12000,23062,2015,3,Manual,1.6,215,Petrol
+171,Nissan Juke 1.6 DIG-T Nismo RS 5dr,11999,40000,2015,3,Manual,1.6,215,Petrol
+172,Nissan Juke 1.6 DiG-T Nismo RS 5dr,11997,17587,2016,2,Manual,1.6,215,Petrol
+173,Nissan Juke NISMO RS DIG-T 1.6 5dr,11980,42568,2015,3,Manual,1.6,215,Petrol
+174,Nissan Juke 1.6 DIG-T Nismo RS 5dr,11900,27400,2014,4,Manual,1.6,215,Petrol
+175,Nissan Juke 1.6 DiG-T Nismo RS 5dr - LANE DEPARTURE - REVERSE CAM &hellip;,11898,29788,2015,3,Manual,1.6,215,Petrol

@@ -29,7 +29,7 @@ namespace AutotraderScraper
             using (var csv = File.AppendText(@".\cars.csv"))
             {
                 int id = 0;
-                csv.WriteLine("id,description,price,mileage,year,transmission,size,power,fuel");
+                csv.WriteLine("id,description,price,mileage,year,age,transmission,size,power,fuel");
                 for (int page = 2; page <= total; page++)
                 {
                     
@@ -53,11 +53,12 @@ namespace AutotraderScraper
                         var subInfo = info.SelectNodes("ul/li");
                         string mileage = subInfo[2].InnerText.Replace(" miles", "").Replace(",", "");
                         string year = subInfo[0].InnerText.Substring(0, 4);
-                        string transmission = subInfo[3].InnerText;
-                        string size = subInfo[4].InnerText.Replace("L", "");
-                        string power = subInfo[5].InnerText.Replace("bhp", "");
+                        int age = DateTime.Now.Year - int.Parse(year);
+                        string size = subInfo[3].InnerText.Replace("L", "");
+                        string power = subInfo[4].InnerText.Replace("bhp", "");
+                        string transmission = subInfo[5].InnerText;
                         string fuel = subInfo[6].InnerText;
-                        csv.WriteLine($"{id},{description},{price},{mileage},{year},{transmission},{size},{power},{fuel}");
+                        csv.WriteLine($"{id},{description},{price},{mileage},{year},{age},{transmission},{size},{power},{fuel}");
                         id++;
                     }
                     PageResult = b.NavigateToPage(new Uri($"https://www.autotrader.co.uk/car-search?sort=price-desc&radius=1500&postcode=e148dw&onesearchad=Used&onesearchad=Nearly%20New&onesearchad=New&make=NISSAN&model=JUKE&aggregatedTrim=Nismo%20RS&page={page}"));
